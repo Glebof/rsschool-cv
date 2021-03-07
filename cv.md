@@ -13,6 +13,6 @@ I studied HTML, CSS and JavaScript. And I also tried to learn Python.
 
 I have no experience as a programmate.
 
-Higher education. Now I'm focusing on studying javascript.
+Higher education. Now I'm focusing on studying javascript. I want to become a programmer as soon as possible.
 
 The level of English is not bad, I can understand the conversation and respond, but without technical terms. Most likely A2+.
