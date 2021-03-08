@@ -1,0 +1,142 @@
+body {
+    margin: auto;
+    margin-top: 40px;
+    display: grid;
+    position:relative;
+    width: 900px;
+
+    box-shadow:  14px 14px 28px #cccccc,
+                -14px -14px 28px #f4f4f4;
+    background: #e0e0e0;
+    font-size: 16px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    height: 100%;
+}
+
+.header {
+    margin: 30px;
+    margin-bottom: 30px;
+    display:flex;  
+    justify-content: center;
+}
+
+.header__logo {
+    display:block;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.header__all {
+    margin-left: 70px;
+    display:block;
+    position: relative;
+    margin-top: 0;
+    margin-right: 30px;
+    float: right;
+}
+
+.header__name {
+    display:block;
+    position: relative;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.header__prof {
+    display:block;
+    position: relative;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+h2 {
+    font-size: 30px;
+    margin: 0;
+    padding: 0;    
+}
+
+h3 {
+    font-size: 20px;    
+    margin: 0;
+    padding: 0; 
+}
+
+p {
+    margin: 30px;
+}
+
+.header__info {
+    margin-top: 10px;
+    padding: 10px;
+    display:flex;
+    position:relative;
+    padding-bottom: 5px;
+    background: rgb(228, 167, 158);
+box-shadow:  9px 9px 18px #9e7a7a,
+             -9px -9px 18px #9e7a7a;
+}
+
+.info__title {
+    display:block;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    background-color: rgb(73, 73, 73);
+    color: rgb(255, 230, 230);
+    box-shadow:  5px 5px 15px #9e7a7a,
+             -5px -5px 15px #9e7a7a;
+}
+
+.info__list {
+    display:block ;
+    padding-right: 10px;
+    padding-left: 30px;
+}
+
+li {
+    margin: 5px;
+}
+
+.icon {
+    height: 20px;
+    width: 20px;
+}
+
+.img {
+    width:200px;
+    border-radius: 50%;
+background: #e0e0e0;
+box-shadow:  14px 14px 28px #9e7a7a,
+             -14px -14px 28px #9e7a7a;
+}
+
+.main {
+    width: 90%;
+    display: block;
+    margin: auto;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.footer__article {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    background: rgb(228, 167, 158);
+    
+}
+.footer__section {
+    width: 100px;
+    display: block;
+    position:relative;
+    margin: 20px;
+}
+
+.my__git {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    text-align: center;
+}
